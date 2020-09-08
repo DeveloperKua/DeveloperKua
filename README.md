@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   <div align=right>
 	
-	[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Kua_developer)](https://twitter.com/Kua_developer)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Kua_developer)](https://twitter.com/Kua_developer)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:developerkua@gmail.com)
 [![My Blog Badge](http://img.shields.io/badge/-My%20blog-black?style=flat-square&logo=tistory&link=https://developer-kua.tistory.com/)](https://developer-kua.tistory.com/)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
