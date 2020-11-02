@@ -2,7 +2,8 @@
 
 ### 🌱 I’m currently learning</h3>
 - many Algorithm & game development skill
-- Game Shader Skill & Network
+- Game Shader Skill
+- Network, Server
 - Design Pattern
 - Math & Physics
 - Computer Graphics 
