@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning</h3>
 - many Algorithm & game development skill
 - Game Shader Skill
-- Network, Server
+- OpenCv
 - Design Pattern
 - Math & Physics
 - Computer Graphics 
@@ -16,11 +16,9 @@
 - Win API
 
 -Language
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> <img>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="js" width="20" height="20"/> <img>
-
+C# / C++ / C
+(noob)
+JS / python
 
 ### 🎮 My favorite game
 - League of legend(Gold Tier 🤣) 
@@ -28,7 +26,7 @@
 
 ### 👯 My hobby
 - 🚲Bicycle 
-- 📚Reading novels
+- 📚Reading Books
 - 🎶Singing
 - ✍composition
 
